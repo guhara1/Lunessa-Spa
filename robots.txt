@@ -19,6 +19,6 @@ Allow: /
 User-agent: bingbot
 Allow: /
 
-Sitemap: https://lunessa-spa.pages.dev/sitemap.xml
-Sitemap: https://lunessa-spa.pages.dev/sitemap-hub.xml
-Sitemap: https://lunessa-spa.pages.dev/rss.xml
+Sitemap: https://lunessaspa.netlify.app/sitemap.xml
+Sitemap: https://lunessaspa.netlify.app/sitemap-hub.xml
+Sitemap: https://lunessaspa.netlify.app/rss.xml
