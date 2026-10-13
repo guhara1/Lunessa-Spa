@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://lunessa-spa.pages.dev/sitemap.xml
+Sitemap: https://lunessa-spa.pages.dev/sitemap-hub.xml
+Sitemap: https://lunessa-spa.pages.dev/rss.xml
